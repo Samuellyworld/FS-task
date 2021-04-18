@@ -12,6 +12,7 @@ const getPosts = fetch => {
 			fs.writeFile(filePath, JSON.stringify(data), (err) => {
 				if(err) throw err
 			})
+			console.log("API data gotten in result directory")
 		}	
 	})
 	.catch(err => console.log(err));
