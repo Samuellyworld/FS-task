@@ -1,6 +1,6 @@
 # FS-task
 
-Installed package node-fetch since fetch doesn't come with nodejs
+I Installed package node-fetch since fetch doesn't come with nodejs.
 
 The API data is gotten from http://jsonplaceholder.typicode.com/posts
 
